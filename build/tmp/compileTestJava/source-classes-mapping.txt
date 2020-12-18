@@ -1,0 +1,6 @@
+com/example/springboot/HelloControllerIT.java
+ com.example.springboot.HelloControllerIT
+com/example/springboot/DummyTest.java
+ com.example.springboot.DummyTest
+com/example/springboot/HelloControllerTest.java
+ com.example.springboot.HelloControllerTest
